@@ -1,9 +1,13 @@
 # Credit-Transfer-Form-Generator
-the program generates credit transfer form in pdf and uses to do this iText library.
+The program generates credit transfer form in pdf and uses to do this iText library.
 
-to open this program download Generator.exe and polecenie-przelewu-wplata-gotowkowa-druk-jednostronicowy.pdf 
+To open this program download Generator.exe and polecenie-przelewu-wplata-gotowkowa-druk-jednostronicowy.pdf 
 to the same folder and open Generator.exe file.
 
-screenshots:
+Screenshots:
+
+![result1](./images/1.png)
+![result1](./images/2.png)
+![result1](./images/3.png)
 
 
